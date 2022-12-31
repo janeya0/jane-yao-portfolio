@@ -1,0 +1,10 @@
+.navBar {
+    display: inline-block;
+    font-family: 'Merriweather', serif;
+    font-size: 14px;
+    @apply m-3 text-slate-600;
+}
+
+.menuIcon {
+    @apply h-7 m-5;
+}
