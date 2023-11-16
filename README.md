@@ -1,4 +1,12 @@
-# Getting Started with Create React App
+# Portfolio | Jane Yao
+
+Personal website made by Jane Yao using React and TypeScript.
+The webpage features a clean and minimalistic design with a home,
+about page, and projects page.
+
+![home page](src/images/home-page-screenshot.png)
+
+# Create React App Default Scripts Below
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
