@@ -1,0 +1,33 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+@import url('https://fonts.googleapis.com/css2?family=Prata&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Prata&family=Source+Code+Pro:ital,wght@0,300;0,500;0,600;1,400&display=swap');
+
+
+html {
+    height: 100%;
+    margin: 0;
+    padding: 0;
+    background-repeat: no-repeat, repeat-y;
+    background-image: linear-gradient(to left top, #c6d8d3, #bbd4c9, #b2d0be, #accbb0, #a9c5a1, #b1c79f, #b9c89d, #c1c99c, #d1d2a9, #e1dcb7, #f0e6c6, #fdf0d5), linear-gradient(to left bottom, #c6d8d3, #bbd4c9, #b2d0be, #accbb0, #a9c5a1, #b1c79f, #b9c89d, #c1c99c, #d1d2a9, #e1dcb7, #f0e6c6, #fdf0d5);;
+}
+
+.text {
+    top: 0;
+    font-family: 'Merriweather', serif;
+    font-size: 13px;
+    position: absolute;
+}
+
+.navBar {
+    font-family: 'Source Code Pro', monospace;
+    font-size: 14px;
+    color: black;
+    font-weight: 600;
+}
+
+.menu-items {
+    display: inline-block;
+    margin-right: 50px;
+}

@@ -1,0 +1,63 @@
+.main {
+    // background-color: antiquewhite;
+    @apply w-[46%] h-[100%] m-auto;
+    margin-top: 7%;
+}
+
+.highlight-text {
+    font-weight: bold;
+}
+
+.main-text {
+    font-family: 'Prata', serif;
+    font-size: 40px;
+    margin-bottom: 5%;
+}
+
+.main-description {
+    font-family: 'Prata', serif;
+    font-family: 'Source Code Pro', monospace;
+    font-size: medium;
+    font-weight: 300;
+}
+
+
+.leftHalf {
+    width: 50%;
+    position: absolute;
+    left: 0px;
+    height: 100%;
+    // background-color: purple;
+    // background: url(../images/about-pfp.jpg) no-repeat center center fixed;
+}
+
+.centered {
+    position: absolute;
+    // top: 1%;
+    // left: 1%;
+    bottom: 0;
+    height: auto;
+    // transform: translate(-50%, -50%);
+    // text-align: center;
+
+    img {
+        max-width: 100%;
+        max-height: 100%;
+        object-fit: contain;
+        filter: brightness(90%)
+    }
+}
+
+.rightHalf {
+    // @apply h-[100%] fixed right-0 top-0 overflow-x-hidden;
+    width: 50%;
+   position: absolute;
+   right: 0px;
+   height: 100%;
+}
+
+.second-background {
+    // display: inline-block;
+    height: 100%;
+    background-image: linear-gradient(to left bottom, #c6d8d3, #bbd4c9, #b2d0be, #accbb0, #a9c5a1, #b1c79f, #b9c89d, #c1c99c, #d1d2a9, #e1dcb7, #f0e6c6, #fdf0d5);
+}

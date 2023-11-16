@@ -1,0 +1,37 @@
+.about {
+    // background-color: antiquewhite;
+    @apply w-[70%] h-[100%] m-auto;
+    margin-top: 3%;
+}
+
+.about-text {
+    font-family: 'Prata', serif;
+    font-size: 50px;
+    margin-bottom: 4%;
+}
+
+.about-description {
+    font-family: 'Prata', serif;
+    font-family: 'Source Code Pro', monospace;
+    font-size: medium;
+    font-weight: 300;
+}
+
+.know-more-link {
+    text-decoration: underline;
+    font-weight: bold;
+}
+
+.list {
+    display: list-item;
+}
+
+img {
+    width: 70%;
+    border-radius: 3em;
+}
+
+#passions {
+    padding-top: 10em;
+    padding-bottom: 10em;
+}
