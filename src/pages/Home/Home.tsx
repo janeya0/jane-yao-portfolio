@@ -24,6 +24,8 @@ const Home = () => {
                     tech world.<br></br><br></br>
                     
                     Explore where code meets creativity with me 🚀
+                    <br></br><br></br>
+                    <br></br><br></br>
                 </div>
             </div>
         </div>
