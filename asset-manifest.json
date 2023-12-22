@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/jane-yao-portfolio/static/css/main.c17a8e12.css",
+    "main.js": "/jane-yao-portfolio/static/js/main.d3de9cba.js",
+    "static/js/787.28cb0dcd.chunk.js": "/jane-yao-portfolio/static/js/787.28cb0dcd.chunk.js",
+    "static/media/honkNHurdle.mp4": "/jane-yao-portfolio/static/media/honkNHurdle.1435423b345c8213f43f.mp4",
+    "static/media/about-pfp.jpg": "/jane-yao-portfolio/static/media/about-pfp.637f12e9599842d7cb67.jpg",
+    "static/media/fishyCatDemo2.mp4": "/jane-yao-portfolio/static/media/fishyCatDemo2.5907e0d6e09d7fec3ef4.mp4",
+    "static/media/simonSays.mp4": "/jane-yao-portfolio/static/media/simonSays.b79fff4531c02a9eddbc.mp4",
+    "index.html": "/jane-yao-portfolio/index.html",
+    "main.c17a8e12.css.map": "/jane-yao-portfolio/static/css/main.c17a8e12.css.map",
+    "main.d3de9cba.js.map": "/jane-yao-portfolio/static/js/main.d3de9cba.js.map",
+    "787.28cb0dcd.chunk.js.map": "/jane-yao-portfolio/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c17a8e12.css",
+    "static/js/main.d3de9cba.js"
+  ]
+}
