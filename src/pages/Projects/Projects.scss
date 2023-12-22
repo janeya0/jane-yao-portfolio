@@ -1,0 +1,29 @@
+.main-projects {
+    // background-color: antiquewhite;
+    @apply w-[60%] h-[100%] m-auto;
+    margin-top: 7%;
+}
+
+.projects-text {
+    font-family: 'Prata', serif;
+    font-size: 50px;
+    margin-bottom: 4%;
+}
+
+.projects-title {
+    font-family: 'Prata', serif;
+    font-size: 30px;
+    padding-bottom: 1.25rem;
+}
+
+.projects-description {
+    font-family: 'Prata', serif;
+    font-family: 'Source Code Pro', monospace;
+    font-size: 14px;
+    font-weight: 300;
+    padding-top: 1rem;
+}
+
+.project-container {
+    padding-bottom: 50px;
+}

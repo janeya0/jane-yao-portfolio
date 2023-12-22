@@ -20,9 +20,7 @@ const About = () => {
                             <li>curious about problem-solving in the creative space</li>
                             <li>invested in telling stories that makes you go "ooooo"</li>
                             <li>looking for opportunities to grow :)</li>
-                            <li>always pushing the boundaries of my comfort zone (the desire to learn and grow 
-                                waged war on my internal urge to stay within my comfort zone and there's been a 
-                                ceaseless battle ever since)</li>
+                            <li>always pushing the boundaries of my comfort zone</li>
                         </div>
                         <br></br>
                             I am a computer science student at the <span className='highlight-text'>University of Waterloo 🪿 </span> 
@@ -33,7 +31,7 @@ const About = () => {
                         <br></br><br></br>
                         <span className='highlight-text'>Recently...</span> <br></br><br></br>
                         <div className=''>
-                            I've delved into Unity projects, game design & development, and game jams to scratch my itch for world building, character building, and storytelling in the context of programming :)
+                            I've delved into Unity projects, game design & development, and game jams to scratch my itch for world building, character building, and storytelling :)
                         </div>
                         <br></br>
                         {/* <a href="#" className='know-more-link' onClick={e => {
