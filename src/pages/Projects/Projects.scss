@@ -8,6 +8,7 @@
     font-family: 'Prata', serif;
     font-size: 50px;
     margin-bottom: 4%;
+    padding-left: 10px;
 }
 
 .projects-title {
@@ -21,9 +22,22 @@
     font-family: 'Source Code Pro', monospace;
     font-size: 14px;
     font-weight: 300;
-    padding-top: 1rem;
+    padding-left: 5px;
 }
 
 .project-container {
     padding-bottom: 50px;
+}
+
+hr {
+    @apply border-black pl-[2.5] pb-4;
+}
+
+a {
+    padding: 5px;
+}
+
+a:hover {
+    background-color: antiquewhite;
+    border-radius: 10px;
 }
