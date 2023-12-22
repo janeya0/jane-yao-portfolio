@@ -1,5 +1,4 @@
 .main-projects {
-    // background-color: antiquewhite;
     @apply w-[60%] h-[100%] m-auto;
     margin-top: 7%;
 }
@@ -12,6 +11,7 @@
 }
 
 .projects-title {
+    @apply flex;
     font-family: 'Prata', serif;
     font-size: 30px;
     padding-bottom: 1.25rem;
@@ -23,6 +23,20 @@
     font-size: 14px;
     font-weight: 300;
     padding-left: 5px;
+}
+
+.projects-tools {
+    font-family: 'Prata', serif;
+    font-family: 'Source Code Pro', monospace;
+    font-size: 14px;
+    font-weight: 300;
+    padding-top: 20px;
+    float: right;
+    font-style: italic;
+}
+
+.wrapper {
+    @apply flex-1;
 }
 
 .project-container {
