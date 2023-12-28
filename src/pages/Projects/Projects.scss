@@ -1,6 +1,6 @@
 .main-projects {
     @apply w-[60%] h-[100%] m-auto;
-    margin-top: 7%;
+    margin-top: 5%;
 }
 
 .projects-text {
@@ -14,7 +14,7 @@
     @apply flex;
     font-family: 'Prata', serif;
     font-size: 30px;
-    padding-bottom: 1.25rem;
+    padding-bottom: 0.3rem;
 }
 
 .projects-description {
@@ -44,7 +44,7 @@
 }
 
 hr {
-    @apply border-black pl-[2.5] pb-4;
+    @apply border-black pl-[2.5] pb-2;
 }
 
 a {
@@ -54,4 +54,19 @@ a {
 a:hover {
     background-color: antiquewhite;
     border-radius: 10px;
+}
+
+.wrapperNextBtn {
+    padding-left: 95%;
+}
+
+.nextBtnDiv {
+    font-size: 40px;
+    font-family: 'Prata', serif;
+    font-family: 'Source Code Pro', monospace;
+    color: #e07a5f;
+}
+
+.nextBtnDiv:hover {
+    text-decoration: underline;;
 }

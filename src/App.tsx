@@ -3,6 +3,7 @@ import './index.scss';
 import { BrowserRouter as Router, Route, Link, Routes } from 'react-router-dom';
 import About from './pages/About/About';
 import Projects from './pages/Projects/Projects';
+import ProjectsPage2 from './pages/Projects/ProjectsPage2';
 
 function App() {
   return (
@@ -30,6 +31,7 @@ function App() {
           <Route path="/" element={<Home/>} />
           <Route path="/about" element={<About/>} />
           <Route path="/projects" element={<Projects/>} />
+          <Route path="/projects2" element={<ProjectsPage2/>} />
         </Routes>
 
       </div>
