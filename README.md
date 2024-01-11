@@ -6,7 +6,14 @@ about page, and projects page.
 
 ![home page](src/images/home-page-screenshot.png)
 
-Deployed using github pages. Steps followed for deployment [here](https://github.com/gitname/react-gh-pages).
+# Deployment steps 
+1. Commit changes to repo
+2. `npm run deploy`
+3. Go to GitHub repo `jane-yao-portfolio` > Settings > Pages
+4. Set "Custom Domain" to "www.janeyao.com" and Save
+5. Changes should be seen deployed on www.janeyao.com
+
+More information on deployment using github pages: steps followed for deployment [here](https://github.com/gitname/react-gh-pages).
 
 # Create React App Default Scripts Below
 
