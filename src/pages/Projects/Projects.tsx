@@ -4,7 +4,7 @@ import './Projects.scss';
 import fishyCat from '../../images/fishyCatDemo2.mp4';
 import honkNHurdle from '../../images/honkNHurdle.mp4';
 import simonSays from '../../images/simonSays.mp4';
-import targetPractice from '../../images/targetPractice.mp4';
+import targetPractice from '../../images/targetPracticev2.mp4';
 import { useNavigate } from "react-router-dom";
 
 const Projects = () => {
