@@ -20,7 +20,7 @@ const Projects2 = () => {
                     {/* Section 4 */}
                     <div className="project-container flex-1 pr-10">
                         <div className='projects-title'>
-                            <a href="https://deft-beignet-abf8a7.netlify.app/" rel="noreferrer">Photography Site</a>
+                            <a href="https://janescamera.netlify.app/" rel="noreferrer">Photography Site</a>
                             <div className='wrapper'><div className='projects-tools'>JavaScript</div></div>
                         </div>
                         <hr/>
